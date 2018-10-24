@@ -1,0 +1,6 @@
+* ll-debug.el - An emacs extension that provides commands to support a low level debug style
+ll-debug is an emacs extension that provides commands to support a low level debug style. It features quick insertion of various debug output statements and improved functions for (un)commenting chunks of code.
+** Note
+This is a mirror of http://www.cbrunzema.de/download/ll-debug/ll-debug.el
+
+Also see:  http://www.cbrunzema.de/software.html#ll-debug
